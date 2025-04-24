@@ -1,3 +1,5 @@
+After a few years hiatus MyEnTunnel is now back with an updated release.
+
 Note: This is a third party application and not associated with VanDyke Software or the author of PuTTY Simon Tatham.
 
 MyEnTunnel is a simple system tray application that establishes and maintains TCP SSH tunnels. It does this by launching Plink (PuTTY Link) in the background and then monitors the process. If the Plink process dies (e.g. connection drops, server restarts or otherwise becomes unreachable) MyEnTunnel will automatically restart Plink to reestablish the tunnels in the background. It tries to use as little CPU and system resources as possible when monitoring. 
