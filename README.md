@@ -6,6 +6,12 @@
 
 > **Note:** This is a third-party application and is not associated with VanDyke Software or Simon Tatham (the author of PuTTY).
 
+## Screenshot
+
+![Screenshot](/images/myentunnel-screenshot.png "MyEnTunnel Screenshot")
+
+---
+
 ---
 
 ## What It Does
