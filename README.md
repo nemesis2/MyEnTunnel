@@ -10,7 +10,7 @@
 
 ## Screenshot
 
-![Screenshot](/images/myentunnel-screenshot.png "MyEnTunnel Screenshot")
+![Screenshot](/images/myentunnel-screenshot-dark.jpg "MyEnTunnel Screenshot Dark Theme")
 
 ---
 
